@@ -13,7 +13,7 @@ copy this code and run in any Python IDE or environment. You will get a donut pi
 I'm a 13 years old inspiring python coder from Bangladesh 🇧🇩.I read in a high school. I create games🚀🚀,analyse and visualise any kind of data📊📈📉.
 If you like this project, don't forget to give it a 🌟🌟. It means a lot to me. Hope you like this!
 # Screenshot📸
-[My code donut pie chart screenshot](
+[Donut_pie_chart.jpg](
 images/Donut_pie_chart.jpg)
 
 # My-Youtube.-🇧🇩👨‍💻🚀
